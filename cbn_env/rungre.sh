@@ -12,7 +12,7 @@ cable_modem_ipv6_vlan_id="1001"
 interface_name="eth0"
 #if you set interface_name to wlan0, you need to run setroute.sh
 #interface_name="wlan0"
-setroute.sh
+#setroute.sh
 #6640
 cable_modem_ipv4_ip="172.16.90.53"
 #cable_modem_ipv6_ip="2002:db50:fa13:43:98c7:d820:6a2b:3adc"
